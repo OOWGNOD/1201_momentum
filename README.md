@@ -12,6 +12,8 @@ Javascript를 활용하여 Chrome Momentum 클론코딩
 
 *행렬을 형성하여 랜덤 백그라운드, 송출 문구 지정
 *Math.random, Math.floor 기능을 사용한 행렬 순번 randomize
+
+
 **clock.js**
 
 *Date 객체를 사용하여 날짜, 시간 관련 정보 표현
